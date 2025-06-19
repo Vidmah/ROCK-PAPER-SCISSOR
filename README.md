@@ -1,1 +1,1 @@
-test repo for git command 
+simple Rock Paper Scissors Game
